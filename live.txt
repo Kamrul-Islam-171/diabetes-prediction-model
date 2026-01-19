@@ -1,0 +1,1 @@
+https://huggingface.co/spaces/kamrul5656/diabetes-prediction
